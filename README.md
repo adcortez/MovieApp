@@ -1,6 +1,6 @@
 # Description of MovieApp
 
-I used MVC architectural pattern in order to create the app.
+I used MVC and MVVM architectural pattern in order to create the app.
 
 The networking is ApiService.swift here I perform the calls to the API.
 
